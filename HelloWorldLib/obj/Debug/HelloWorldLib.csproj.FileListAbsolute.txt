@@ -1,0 +1,6 @@
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLib\bin\Debug\HelloWorldLib.dll.config
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLib\bin\Debug\HelloWorldLib.dll
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLib\bin\Debug\HelloWorldLib.pdb
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLib\obj\Debug\HelloWorldLib.csproj.CoreCompileInputs.cache
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLib\obj\Debug\HelloWorldLib.dll
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLib\obj\Debug\HelloWorldLib.pdb

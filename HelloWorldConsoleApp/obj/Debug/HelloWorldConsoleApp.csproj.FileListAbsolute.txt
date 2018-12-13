@@ -1,0 +1,11 @@
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe.config
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.pdb
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldLib.dll
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldLib.pdb
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldLib.dll.config
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csprojAssemblyReference.cache
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csproj.CoreCompileInputs.cache
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csproj.CopyComplete
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.exe
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.pdb

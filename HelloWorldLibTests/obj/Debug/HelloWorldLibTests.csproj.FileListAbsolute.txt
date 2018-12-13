@@ -1,0 +1,17 @@
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLibTests\bin\Debug\HelloWorldLibTests.dll
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLibTests\bin\Debug\HelloWorldLibTests.pdb
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLibTests\bin\Debug\HelloWorldLib.dll
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLibTests\bin\Debug\HelloWorldLib.pdb
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLibTests\bin\Debug\HelloWorldLib.dll.config
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLibTests\obj\Debug\HelloWorldLibTests.csprojAssemblyReference.cache
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLibTests\obj\Debug\HelloWorldLibTests.csproj.CoreCompileInputs.cache
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLibTests\obj\Debug\HelloWorldLibTests.csproj.CopyComplete
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLibTests\obj\Debug\HelloWorldLibTests.dll
+C:\Lightyear\HelloWorldConsoleApp\HelloWorldLibTests\obj\Debug\HelloWorldLibTests.pdb
